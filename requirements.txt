@@ -24,6 +24,7 @@ hnswlib==0.7.0
 # Utilities
 python-dotenv==1.0.0
 python-multipart==0.0.6
+python-docx==0.8.11 
 
 # Streamlit UI
 streamlit==1.29.0
