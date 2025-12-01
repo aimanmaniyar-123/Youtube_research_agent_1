@@ -6,7 +6,7 @@ import json
 # ------------------------------------------
 # CONFIG
 # ------------------------------------------
-API_BASE = "http://localhost:8000"   # Change to your deployed FastAPI URL
+API_BASE = "https://youtube-research-agent-1-gz7b.onrender.com"   # Change to your deployed FastAPI URL
 
 st.set_page_config(page_title="YouTube Research Agent", layout="wide")
 
